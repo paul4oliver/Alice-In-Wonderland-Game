@@ -1,4 +1,4 @@
-# Paul Kenaga
+# Paul Oliver
 # Develop and submit the “TextBasedGame.py” file using PyCharm.
 # Include your full name in a comment at the top of the code.
 # Be sure to submit the code that you have completed, even if you did not finish the full game.
